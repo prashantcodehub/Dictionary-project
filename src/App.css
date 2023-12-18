@@ -1,0 +1,22 @@
+
+.navbar{
+      display: flex;
+      background-color: blueviolet;
+        justify-content: space-between;
+        color: aqua;
+       
+        padding-bottom: 15px;
+}
+.head{
+  margin-top: 0px;
+
+}
+.link{
+  color: aqua;
+   text-decoration: none;
+}
+
+.searchbar{
+  text-align: center;
+}
+
